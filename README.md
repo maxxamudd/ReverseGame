@@ -4,3 +4,5 @@ Java - This is a game where you have to sort an array of numbers back into ascen
 Reverse 5 of those numbers starting from the left:
 123456789
 You win that game!
+
+Demonstrates skills in array manipulation, GUI design, button interactions, and sound implementation.
